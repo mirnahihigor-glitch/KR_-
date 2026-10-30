@@ -1,0 +1,15 @@
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.AssemblyInfoInputs.cache
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.AssemblyInfo.cs
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.csproj.CoreCompileInputs.cache
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\bin\Debug\net10.0\KRrab.exe
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\bin\Debug\net10.0\KRrab.deps.json
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\bin\Debug\net10.0\KRrab.runtimeconfig.json
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\bin\Debug\net10.0\KRrab.dll
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\bin\Debug\net10.0\KRrab.pdb
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.dll
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\refint\KRrab.dll
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.pdb
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.genruntimeconfig.cache
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\ref\KRrab.dll
+C:\Users\isip-r-24-1\source\repos\KRrab\KRrab\obj\Debug\net10.0\KRrab.csproj.Up2Date
